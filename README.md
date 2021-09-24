@@ -4,5 +4,5 @@
 - I’m currently learning DataBase
 - I’m looking to collaborate on OceanBase
 
-![](https://github-readme-stats.vercel.app/api?username=LINxiansheng)
+![](https://github-readme-stats.vercel.app/api?username=LINxiansheng&theme=dark)
 
